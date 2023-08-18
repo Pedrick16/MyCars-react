@@ -1,0 +1,16 @@
+.nav-container{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+
+.link{
+    color: white;
+    padding-left: 20px;
+    text-decoration: none;
+}
+
+
